@@ -8,7 +8,7 @@ function App() {
       <aside>
 <h3>Hi my name is Ana Gondring </h3>
 <img src={img1} className="App-logo" alt="Women with red hair on a computer drinking coffee with a cat at her feet" />
-<p> I really like coffee, cats, and computers, I'm a Front-End UX Engineer</p>
+<p> I really like coffee, cats, and computers, I'm a Front-End UX Engineer, with a focus on Accessibility</p>
 <p><strong>Skills</strong>  </p>
 <p>Languages</p>
 <p>Semantic HTML, CSS, JavaScript</p>
