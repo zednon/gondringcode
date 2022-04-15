@@ -16,6 +16,11 @@ body {
   color: #2f313c;
 }
 
+.passwordGen {
+  width: 15em;
+  padding-top: 2em;
+}
+
 .App {
   text-align: center;
 }
@@ -47,7 +52,7 @@ body {
 
 aside{
   float: left;
-  border-right: #47517e dotted 1em;
+  border-right: #47517e double .5em;
   padding: 1em;
   width: 18%;
   text-align: left;
@@ -64,13 +69,15 @@ float: right;
 
 
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 #47517e;
   transition: 0.3s;
   width: 20em;
+  padding-bottom: 2em;
 }
 
 .card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 8px 16px 0 #47517e
+  ;
 }
 
 .container {

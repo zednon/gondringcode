@@ -1,4 +1,5 @@
 import img1 from './imgs/img1.png';
+import img2 from './imgs/img2.png';
 import './App.css';
 
 function App() {
@@ -30,8 +31,12 @@ function App() {
 <main>
 <section><div className="card">
  <div className="container">
+ <img src={img2} className="passwordGen" alt="Women with red hair on a computer drinking coffee with a cat at her feet" />
     <h2><b>Password Generator</b></h2> 
-    <button> View the Project</button>
+    <p><b>Tools:</b> HTML, CSS, JavaScript</p>
+    <p>Random charters for a password Generator</p>
+    <a href="https://github.com/zednon/PasswordGen" aria="follow link to see my code"> View the Project</a> <br/>
+    <a href="https://zednon.github.io/PasswordGen/" aria="will take you try it your self">Test it for yourself</a>
   </div>
   </div>
 </section>
