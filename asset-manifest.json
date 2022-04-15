@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/gondringcode/static/css/main.9723e11b.css",
+    "main.js": "/gondringcode/static/js/main.83d4a05f.js",
+    "static/js/787.67a9d4c9.chunk.js": "/gondringcode/static/js/787.67a9d4c9.chunk.js",
+    "static/media/img1.png": "/gondringcode/static/media/img1.6dbbe0c4a8a4e16c91f4.png",
+    "static/media/img2.png": "/gondringcode/static/media/img2.12e9f3e081eb969ad229.png",
+    "index.html": "/gondringcode/index.html",
+    "main.9723e11b.css.map": "/gondringcode/static/css/main.9723e11b.css.map",
+    "main.83d4a05f.js.map": "/gondringcode/static/js/main.83d4a05f.js.map",
+    "787.67a9d4c9.chunk.js.map": "/gondringcode/static/js/787.67a9d4c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9723e11b.css",
+    "static/js/main.83d4a05f.js"
+  ]
+}
